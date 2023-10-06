@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Kumar Saurabh an undergraduate student at NIT Jalandhar.
 - 👀 I’m interested in web development,currently on the path to become a full stack developer.
-- 🌱 I’m currently learning backend  and blockchain development. 
+- 🌱 I’m currently learning backend and MERN stack.
+- Just a beginner in REACT and better in other MERN elements. 
 - 💞️ I’m looking to collaborate on frontend and full stack dev.
 - 📫 How to reach me --
 - my email-kumarsaurabh27d@gmail.com
